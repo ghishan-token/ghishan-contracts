@@ -17,4 +17,4 @@ This repository contains the official smart contracts for the GHISHAN (GS) token
 This project is licensed under the MIT License.
 
 ## Related Repositories
-- **Assets (Logo & Tokenlist):** [ghishan-assets](https://github.com/<username>/ghishan-assets)
+- **Assets (Logo & Tokenlist):** [ghishan-assets](https://github.com/ghishan-token/ghishan-assets)
